@@ -25,5 +25,14 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/in_nhanh_trong_model_va_layout_1772183725666.lsp",
     "guide": "IN NHANH NHẤT TRÁI ĐẤT-LONG ĐÀ NẴNG",
     "createdAt": "2026-02-27T09:15:26.274Z"
+  },
+  {
+    "id": "1772184575901",
+    "category": "cad",
+    "title": "MEP-TAG",
+    "desc": "TAG Nhanh TRONG AUTOCAD-như Revit",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/mep_tag_1772184575055.lsp",
+    "guide": "COMMAND: MEPTAG",
+    "createdAt": "2026-02-27T09:29:35.901Z"
   }
 ]
