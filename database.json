@@ -34,5 +34,14 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/mep_tag_1772184575055.lsp",
     "guide": "COMMAND: MEPTAG",
     "createdAt": "2026-02-27T09:29:35.901Z"
+  },
+  {
+    "id": "1772184934880",
+    "category": "cad",
+    "title": "Align-Canh chỉnh",
+    "desc": "- ALIGN (CĂN CHỈNH - THEO ĐỐI TƯỢNG MỐC) \n- DISTRIBUTE AUTO (CHIA ĐỀU TỰ ĐỘNG)\n- DISTRIBUTE SMART (DÀN THEO KHOẢNG CÁCH NHẬP - TỰ ĐỘNG HƯỚNG)",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/align_canh_chinh__1772184934281.lsp",
+    "guide": "COMMAND: \n- ALL : Can Trai  \n- ALR : Can Phai  \n- ALT : Can Tren \n- ALB : Can Duoi\n... mở FILE lên đọc đi ní!!!",
+    "createdAt": "2026-02-27T09:35:34.880Z"
   }
 ]
