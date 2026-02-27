@@ -16,5 +16,14 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/masterblock_1772179465703.lsp",
     "guide": "Command: MasterBlock",
     "createdAt": "2026-02-27T08:04:26.385Z"
+  },
+  {
+    "id": "1772183726274",
+    "category": "cad",
+    "title": "IN NHANH TRONG MODEL VÀ LAYOUT",
+    "desc": "CHỌN ĐỐI TƯỢNG -> QUÉT -> IN",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/in_nhanh_trong_model_va_layout_1772183725666.lsp",
+    "guide": "TỰ CẢM NHẬN",
+    "createdAt": "2026-02-27T09:15:26.274Z"
   }
 ]
