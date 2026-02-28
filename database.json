@@ -70,5 +70,14 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/renamelayout_1772246909943.lsp",
     "guide": "Command: RNL",
     "createdAt": "2026-02-28T02:48:30.644Z"
+  },
+  {
+    "id": "1772247509906",
+    "category": "revit_dynamo",
+    "title": "Create Schedule",
+    "desc": "Tạo bảng thống kê từ parameter trong Excel",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/create_schedule_1772247509334.lsp",
+    "guide": "Sử Dụng Dynamo để chạy file này",
+    "createdAt": "2026-02-28T02:58:29.906Z"
   }
 ]
