@@ -18,5 +18,15 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/chuyen_tat_ca_thanh_chu_thuong_1772282547969.lsp",
     "guide": "ALT F11 -> Insert -> Module -> Copy Code -> Thoát \nBôi đen các ô cần đổi -> ALT F8 -> chọn lệnh và chạy",
     "createdAt": "2026-02-28T12:42:28.488Z"
+  },
+  {
+    "id": "1772282644543",
+    "category": "vba_6861",
+    "author": "Sơn Hồ",
+    "title": "Chuyển tất cả chữ thành CHỮ IN HOA",
+    "desc": "Hàm này sẽ biến chữ thường, hoặc chữ in hoa lộn xộn thành định dạng chuẩn (ví dụ: \"nguyễn văn a\" ➔ \"NGUYỄN VĂN A\")",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/chuyen_tat_ca_chu_thanh_chu_in_hoa_1772282643989.lsp",
+    "guide": "ALT F11 -> Insert -> Module -> Copy Code -> Thoát \nBôi đen các ô cần đổi -> ALT F8 -> chọn lệnh và chạy",
+    "createdAt": "2026-02-28T12:44:04.543Z"
   }
 ]
