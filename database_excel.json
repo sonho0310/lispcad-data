@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1772282446733",
+    "category": "vba_6861",
+    "author": "Sơn Hồ",
+    "title": "Viết hoa chữ cái đầu",
+    "desc": "Hàm này sẽ biến chữ thường, hoặc chữ in hoa lộn xộn thành định dạng chuẩn (ví dụ: \"nguyễn văn a\" ➔ \"Nguyễn Văn A\")",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/viet_hoa_chu_cai__au_1772282446111.lsp",
+    "guide": "ALT F11 -> Insert -> Module -> Copy Code -> Thoát \nBôi đen các ô cần đổi -> ALT F8 -> chọn lệnh và chạy",
+    "createdAt": "2026-02-28T12:40:46.733Z"
+  }
+]
