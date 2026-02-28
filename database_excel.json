@@ -28,5 +28,15 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/chuyen_tat_ca_chu_thanh_chu_in_hoa_1772282643989.lsp",
     "guide": "ALT F11 -> Insert -> Module -> Copy Code -> Thoát \nBôi đen các ô cần đổi -> ALT F8 -> chọn lệnh và chạy",
     "createdAt": "2026-02-28T12:44:04.543Z"
+  },
+  {
+    "id": "1772283221618",
+    "category": "vba_6861",
+    "author": "Sơn Hồ",
+    "title": "Thêm tiền tố hoặc hậu tố",
+    "desc": "mở lên và cảm nhận thôi bro!!!",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/them_tien_to_hoac_hau_to_1772283221013.lsp",
+    "guide": "ALT F11 -> Insert -> Module -> Copy Code -> Thoát \nBôi đen các ô cần đổi -> ALT F8 -> chọn lệnh và chạy",
+    "createdAt": "2026-02-28T12:53:41.618Z"
   }
 ]
