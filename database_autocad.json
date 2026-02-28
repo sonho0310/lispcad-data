@@ -88,5 +88,15 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/update_group_1772247566400.lsp",
     "guide": "B1: Quét chọn phần tử cần Group\nB2: Chọn phần tử mốc trong group cũ\nB3: Chọn các Group cần update",
     "createdAt": "2026-02-28T02:59:26.858Z"
+  },
+  {
+    "id": "1772250195489",
+    "category": "lisp",
+    "author": "Sơn Hồ",
+    "title": "Add Vertex",
+    "desc": "Thêm nhanh đỉnh Polyline",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/add_vertex_1772250194882.lsp",
+    "guide": "Command: AV",
+    "createdAt": "2026-02-28T03:43:15.489Z"
   }
 ]
