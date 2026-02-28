@@ -28,12 +28,5 @@
     "id": "revit_dynamo",
     "name": "Revit Dynamo",
     "icon": "account_tree"
-  },
-  {
-    "main": "AutoCAD",
-    "id": "mep_2776",
-    "name": "MEP",
-    "icon": "folder_open",
-    "createdAt": "2026-02-28T04:53:03.486Z"
   }
 ]
