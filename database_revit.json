@@ -28,5 +28,15 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/layout_1772251643527.zip",
     "guide": "",
     "createdAt": "2026-02-28T04:07:23.982Z"
+  },
+  {
+    "id": "1772251803186",
+    "category": "revit_dynamo",
+    "author": "Sơn Hồ",
+    "title": "Create Drafting View",
+    "desc": "1",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/create_drafting_view_1772251802535.dyn",
+    "guide": "1",
+    "createdAt": "2026-02-28T04:10:03.186Z"
   }
 ]
