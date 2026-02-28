@@ -8,5 +8,15 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/test_1772251173058.dyn",
     "guide": "Dùng Dynamo nhé",
     "createdAt": "2026-02-28T03:59:33.675Z"
+  },
+  {
+    "id": "1772251564533",
+    "category": "revit_addin",
+    "author": "Sưu tầm",
+    "title": "DuplicateFC",
+    "desc": "foor-Ceilling",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/duplicatefc_1772251563838.zip",
+    "guide": "",
+    "createdAt": "2026-02-28T04:06:04.533Z"
   }
 ]
