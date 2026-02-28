@@ -28,5 +28,12 @@
     "id": "revit_dynamo",
     "name": "Revit Dynamo",
     "icon": "account_tree"
+  },
+  {
+    "main": "Excel",
+    "id": "vba_6861",
+    "name": "VBA",
+    "icon": "folder_open",
+    "createdAt": "2026-02-28T12:38:54.661Z"
   }
 ]
