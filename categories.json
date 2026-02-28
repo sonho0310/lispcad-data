@@ -1,15 +1,15 @@
 [
   {
     "main": "AutoCAD",
-    "id": "cad",
-    "name": "BLOCK - LAYOUT",
-    "icon": "view_in_ar"
-  },
-  {
-    "main": "AutoCAD",
     "id": "lisp",
     "name": "Layer - Polyline",
     "icon": "code"
+  },
+  {
+    "main": "AutoCAD",
+    "id": "cad",
+    "name": "BLOCK - LAYOUT",
+    "icon": "view_in_ar"
   },
   {
     "main": "Revit",
