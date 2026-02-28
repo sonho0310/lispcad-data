@@ -1,6 +1,36 @@
 [
   {
     "main": "AutoCAD",
+    "id": "cad",
+    "name": "BLOCK - LAYOUT",
+    "icon": "view_in_ar"
+  },
+  {
+    "main": "AutoCAD",
+    "id": "lisp",
+    "name": "Layer - Polyline",
+    "icon": "code"
+  },
+  {
+    "main": "Revit",
+    "id": "revit_all",
+    "name": "Tất Cả Revit",
+    "icon": "domain"
+  },
+  {
+    "main": "Revit",
+    "id": "revit_addin",
+    "name": "Revit Addin",
+    "icon": "extension"
+  },
+  {
+    "main": "Revit",
+    "id": "revit_dynamo",
+    "name": "Revit Dynamo",
+    "icon": "account_tree"
+  },
+  {
+    "main": "AutoCAD",
     "id": "general_8370",
     "name": "General",
     "icon": "folder_open",
