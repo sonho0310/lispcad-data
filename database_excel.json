@@ -8,5 +8,15 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/viet_hoa_chu_cai__au_1772282446111.lsp",
     "guide": "ALT F11 -> Insert -> Module -> Copy Code -> Thoát \nBôi đen các ô cần đổi -> ALT F8 -> chọn lệnh và chạy",
     "createdAt": "2026-02-28T12:40:46.733Z"
+  },
+  {
+    "id": "1772282548488",
+    "category": "vba_6861",
+    "author": "Sơn Hồ",
+    "title": "Chuyển tất cả thành chữ thường",
+    "desc": "Hàm này sẽ biến thành chữ thường (ví dụ: \"Nguyễn Văn A\" ➔ \"nguyễn văn a\")",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/chuyen_tat_ca_thanh_chu_thuong_1772282547969.lsp",
+    "guide": "ALT F11 -> Insert -> Module -> Copy Code -> Thoát \nBôi đen các ô cần đổi -> ALT F8 -> chọn lệnh và chạy",
+    "createdAt": "2026-02-28T12:42:28.488Z"
   }
 ]
