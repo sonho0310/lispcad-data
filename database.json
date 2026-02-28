@@ -79,5 +79,14 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/create_schedule_1772247509334.lsp",
     "guide": "Sử Dụng Dynamo để chạy file này",
     "createdAt": "2026-02-28T02:58:29.906Z"
+  },
+  {
+    "id": "1772247566858",
+    "category": "revit_addin",
+    "title": "Update Group",
+    "desc": "Tạo và cập nhật Group mới vào Group cũ đã chọn theo vị trí neo",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/update_group_1772247566400.lsp",
+    "guide": "B1: Quét chọn phần tử cần Group\nB2: Chọn phần tử mốc trong group cũ\nB3: Chọn các Group cần update",
+    "createdAt": "2026-02-28T02:59:26.858Z"
   }
 ]
