@@ -61,5 +61,14 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/duplicatefl_1772190028807.zip",
     "guide": "",
     "createdAt": "2026-02-27T11:00:29.474Z"
+  },
+  {
+    "id": "1772246910644",
+    "category": "BLOCK",
+    "title": "RenameLayout",
+    "desc": "Đổi tên Layout nhanh như điện",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/renamelayout_1772246909943.lsp",
+    "guide": "Command: RNL",
+    "createdAt": "2026-02-28T02:48:30.644Z"
   }
 ]
