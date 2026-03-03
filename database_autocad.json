@@ -98,5 +98,15 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/add_vertex_1772250194882.lsp",
     "guide": "Command: AV",
     "createdAt": "2026-02-28T03:43:15.489Z"
+  },
+  {
+    "id": "1772511810907",
+    "category": "lisp",
+    "author": "Sơn Hồ",
+    "title": "MasterMEP",
+    "desc": "Triển khai polyline nhanh hệ HVAC - PLUMBING trên Cad",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/mastermep_1772511810133.lsp",
+    "guide": "Hãy appload lisp vô và cảm nhận đi bro!!! \nLệnh tắt: MasterMep",
+    "createdAt": "2026-03-03T04:23:30.907Z"
   }
 ]
