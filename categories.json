@@ -35,5 +35,12 @@
     "name": "VBA",
     "icon": "folder_open",
     "createdAt": "2026-02-28T12:38:54.661Z"
+  },
+  {
+    "main": "AutoCAD",
+    "id": "general_6374",
+    "name": "General",
+    "icon": "folder_open",
+    "createdAt": "2026-03-03T09:00:07.856Z"
   }
 ]
