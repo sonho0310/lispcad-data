@@ -108,5 +108,15 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/mastermep_1772511810133.lsp",
     "guide": "Hãy appload lisp vô và cảm nhận đi bro!!! \nLệnh tắt: MasterMep",
     "createdAt": "2026-03-03T04:23:30.907Z"
+  },
+  {
+    "id": "1772528696864",
+    "category": "general_6374",
+    "author": "Sơn Hồ",
+    "title": "SETUP CAD",
+    "desc": "Cài đặt sẵn giao diện Cad mở lên bao gồm:\n- Tắt Grid F7\n- Tắt F8\n- Unit: mm\n- Chiều cao chữ: 200mm\n- Truy bắt điểm\n...",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/setup_cad_1772528696091.lsp",
+    "guide": "- Lệnh tắt: Setupcad\n- Nhập lệnh Appload -> Chọn Content -> chọn file lisp setup_cad\n- Sau khi hoàn tất hướng dẫn thì mở cad mới lên không cần chạy lại lệnh.\n- Bro hãy cảm nhận tinh hoa đi nhé!",
+    "createdAt": "2026-03-03T09:04:56.864Z"
   }
 ]
