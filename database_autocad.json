@@ -119,15 +119,5 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/make_more_of_the_same__mm__1772772036115.lsp",
     "guide": "Load Lisp (AP) -> Gõ MM -> Chọn đối tượng mẫu -> Vẽ tiếp.",
     "createdAt": "2026-03-06T04:40:36.702Z"
-  },
-  {
-    "id": "1772772041151",
-    "category": "cad",
-    "author": "Dong Pham",
-    "title": "Fix khung viền Mtext (TxtBoxWidth)",
-    "desc": "Tự động thu hẹp khung viền (bounding box) của các đối tượng MText sao cho vừa khít với chiều dài chữ thực tế.",
-    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/fix_khung_vien_mtext__txtboxwidth__1772772040617.lsp",
-    "guide": "Load Lisp (AP) -> Gõ TxtBoxWidth -> Quét chọn các MText cần thu gọn -> Enter.",
-    "createdAt": "2026-03-06T04:40:41.151Z"
   }
 ]
