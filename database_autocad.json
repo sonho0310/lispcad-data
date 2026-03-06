@@ -112,5 +112,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-06T10:47:50.905Z"
+  },
+  {
+    "id": "1772794075899",
+    "category": "cad",
+    "author": "Dong Pham",
+    "title": "Make More of the Same (MM)",
+    "desc": "Tạo đối tượng mới cùng loại và kế thừa thuộc tính (Layer, Color...) từ mẫu.",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/make_more_of_the_same__mm__1772794075270.lsp",
+    "guide": "Load Lisp (AP) -> Gõ MM -> Chọn đối tượng mẫu -> Vẽ tiếp.",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-06T10:47:55.899Z"
   }
 ]
