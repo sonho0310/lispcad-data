@@ -129,4 +129,14 @@
     "guide": "1. Tai file Lisp vao AutoCAD bang lenh APPLOAD (AP).\n;; 2. Co 2 lenh de ban su dung:\n;;    + Lenh: VPAN   -> Chon Viewport va Nhap so khoang cach (dX, dY).\n;;    + Lenh: VPAN2P -> Chon Viewport va Click chon 2 diem de Pan truc quan.",
     "createdAt": "2026-03-06T02:48:28.409Z"
   },
+  {
+    "id": "1772769994753",
+    "category": "cad",
+    "author": "System",
+    "title": "DummyFix",
+    "desc": "Fix",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/dummyfix_1772769994051.lsp",
+    "guide": "",
+    "createdAt": "2026-03-06T04:06:34.753Z"
+  }
 ]
