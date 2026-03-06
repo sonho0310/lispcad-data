@@ -138,5 +138,15 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/copy_block_with_new_name__copyblock3__1772768161570.lsp",
     "guide": "Load Lisp (AP) -> Gõ CopyBlock3 -> Chọn Block mẫu -> Nhập tên mới -> Chọn điểm chèn.",
     "createdAt": "2026-03-06T03:36:02.283Z"
+  },
+  {
+    "id": "1772768166979",
+    "category": "cad",
+    "author": "Dong Pham",
+    "title": "Make More of the Same (MM)",
+    "desc": "Tạo đối tượng mới cùng loại và kế thừa thuộc tính (Layer, Color...) từ mẫu.",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/make_more_of_the_same__mm__1772768166449.lsp",
+    "guide": "Load Lisp (AP) -> Gõ MM -> Chọn đối tượng mẫu -> Vẽ tiếp.",
+    "createdAt": "2026-03-06T03:36:06.979Z"
   }
 ]
