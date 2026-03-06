@@ -99,5 +99,18 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/setup_cad_1772528696091.lsp",
     "guide": "- Lệnh tắt: Setupcad\n- Nhập lệnh Appload -> Chọn Content -> chọn file lisp setup_cad\n- Sau khi hoàn tất hướng dẫn thì mở cad mới lên không cần chạy lại lệnh.\n- Bro hãy cảm nhận tinh hoa đi nhé!",
     "createdAt": "2026-03-03T09:04:56.864Z"
+  },
+  {
+    "id": "1772788118398",
+    "category": "general_6374",
+    "author": "Sơn Hồ",
+    "title": "Test",
+    "desc": "Test",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/test_1772788117629.lsp",
+    "guide": "Test",
+    "isPremium": true,
+    "zalo": "0364847376 ZALO: Sơn",
+    "password": "123456",
+    "createdAt": "2026-03-06T09:08:38.398Z"
   }
 ]
