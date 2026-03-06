@@ -125,5 +125,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-06T10:47:55.899Z"
+  },
+  {
+    "id": "1772794080655",
+    "category": "cad",
+    "author": "Dong Pham",
+    "title": "Fix khung viền Mtext (TxtBoxWidth)",
+    "desc": "Tự động thu hẹp khung viền (bounding box) của các đối tượng MText sao cho vừa khít với chiều dài chữ thực tế.",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/fix_khung_vien_mtext__txtboxwidth__1772794080053.lsp",
+    "guide": "Load Lisp (AP) -> Gõ TxtBoxWidth -> Quét chọn các MText cần thu gọn -> Enter.",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-06T10:48:00.655Z"
   }
 ]
