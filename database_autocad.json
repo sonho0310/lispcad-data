@@ -128,5 +128,15 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/pan_viewport_trong_layout_1772765307696.lsp",
     "guide": "1. Tai file Lisp vao AutoCAD bang lenh APPLOAD (AP).\n;; 2. Co 2 lenh de ban su dung:\n;;    + Lenh: VPAN   -> Chon Viewport va Nhap so khoang cach (dX, dY).\n;;    + Lenh: VPAN2P -> Chon Viewport va Click chon 2 diem de Pan truc quan.",
     "createdAt": "2026-03-06T02:48:28.409Z"
+  },
+  {
+    "id": "1772768162283",
+    "category": "cad",
+    "author": "Dong Pham",
+    "title": "Copy Block with New Name (CopyBlock3)",
+    "desc": "Tạo bản sao của Block được chọn và gán tên mới (tự động đổi tên nếu là Block anonymous).",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/copy_block_with_new_name__copyblock3__1772768161570.lsp",
+    "guide": "Load Lisp (AP) -> Gõ CopyBlock3 -> Chọn Block mẫu -> Nhập tên mới -> Chọn điểm chèn.",
+    "createdAt": "2026-03-06T03:36:02.283Z"
   }
 ]
