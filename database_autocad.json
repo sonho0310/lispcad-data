@@ -118,5 +118,15 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/setup_cad_1772528696091.lsp",
     "guide": "- Lệnh tắt: Setupcad\n- Nhập lệnh Appload -> Chọn Content -> chọn file lisp setup_cad\n- Sau khi hoàn tất hướng dẫn thì mở cad mới lên không cần chạy lại lệnh.\n- Bro hãy cảm nhận tinh hoa đi nhé!",
     "createdAt": "2026-03-03T09:04:56.864Z"
+  },
+  {
+    "id": "1772765308409",
+    "category": "cad",
+    "author": "Dong Pham",
+    "title": "PAN VIEWPORT TRONG LAYOUT",
+    "desc": "CHUC NANG:\n;; - Cho phep di chuyen (Pan) vung nhin Model ben trong Viewport cua Layout.\n;; - Hoat dong mượt mà ngay ca khi Viewport dang bi khoa (DisplayLocked).\n;; - Tu dong quy doi khoang cach Layout ra khoang cach Model (thong qua CustomScale).\n;; - Khong can vao trong Model space (double click), giup bao ve ty le ban ve.",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/pan_viewport_trong_layout_1772765307696.lsp",
+    "guide": "1. Tai file Lisp vao AutoCAD bang lenh APPLOAD (AP).\n;; 2. Co 2 lenh de ban su dung:\n;;    + Lenh: VPAN   -> Chon Viewport va Nhap so khoang cach (dX, dY).\n;;    + Lenh: VPAN2P -> Chon Viewport va Click chon 2 diem de Pan truc quan.",
+    "createdAt": "2026-03-06T02:48:28.409Z"
   }
 ]
