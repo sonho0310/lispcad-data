@@ -51,5 +51,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-06T10:28:07.298Z"
+  },
+  {
+    "id": "1772794899508",
+    "category": "revit_addin",
+    "author": "Sơn Hồ",
+    "title": "Vẽ lại theo AutoCad",
+    "desc": "Có tiền là có tất cả!!!",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/ve_lai_theo_autocad_1772794898886.lsp",
+    "guide": "Có tiền là có tất cả!!!",
+    "isPremium": true,
+    "zalo": "0364847376",
+    "password": "0310",
+    "createdAt": "2026-03-06T11:01:39.508Z"
   }
 ]
