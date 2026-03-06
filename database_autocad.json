@@ -99,15 +99,5 @@
     "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/setup_cad_1772528696091.lsp",
     "guide": "- Lệnh tắt: Setupcad\n- Nhập lệnh Appload -> Chọn Content -> chọn file lisp setup_cad\n- Sau khi hoàn tất hướng dẫn thì mở cad mới lên không cần chạy lại lệnh.\n- Bro hãy cảm nhận tinh hoa đi nhé!",
     "createdAt": "2026-03-03T09:04:56.864Z"
-  },
-  {
-    "id": "1772772031924",
-    "category": "cad",
-    "author": "Dong Pham",
-    "title": "Copy Block with New Name (CopyBlock3)",
-    "desc": "Tạo bản sao của Block được chọn và gán tên mới (tự động đổi tên nếu là Block anonymous).",
-    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/copy_block_with_new_name__copyblock3__1772772031271.lsp",
-    "guide": "Load Lisp (AP) -> Gõ CopyBlock3 -> Chọn Block mẫu -> Nhập tên mới -> Chọn điểm chèn.",
-    "createdAt": "2026-03-06T04:40:31.924Z"
   }
 ]
