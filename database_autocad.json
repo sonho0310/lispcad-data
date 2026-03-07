@@ -138,5 +138,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-06T10:48:00.655Z"
+  },
+  {
+    "id": "1772866812077",
+    "category": "lisp",
+    "author": "Hoàng Long",
+    "title": "XuatMapCad",
+    "desc": "lệnh tắt MAP",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/xuatmapcad_1772866811333.zip",
+    "guide": "",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-07T07:00:12.077Z"
   }
 ]
