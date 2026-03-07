@@ -64,5 +64,18 @@
     "zalo": "0364847376",
     "password": "0310",
     "createdAt": "2026-03-06T11:01:39.508Z"
+  },
+  {
+    "id": "1772868310790",
+    "category": "revit_addin",
+    "author": "Sơn Hồ",
+    "title": "Ông Trùm của những ông Trùm",
+    "desc": "Có tiền là có tất cả!!!",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/ong_trum_cua_nhung_ong_trum_1772868310029.lsp",
+    "guide": "Có tiền là có tất cả!!!",
+    "isPremium": true,
+    "zalo": "0364847376",
+    "password": "123456",
+    "createdAt": "2026-03-07T07:25:10.790Z"
   }
 ]
