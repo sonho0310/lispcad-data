@@ -90,5 +90,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-09T04:05:08.008Z"
+  },
+  {
+    "id": "1773045488283",
+    "category": "revit_addin",
+    "author": "Sơn Hồ",
+    "title": "Chạy Code Promax",
+    "desc": "Chạy Code không cần tạo pusbutton",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/chay_code_promax_1773045487590.zip",
+    "guide": "Các cách sử dụng:\n- thêm cây thư mục vào \n- trỏ trực tiếp tới file code .py\n- copy trực tiếp code vào giao diện",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-09T08:38:08.283Z"
   }
 ]
