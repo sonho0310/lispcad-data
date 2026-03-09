@@ -77,18 +77,5 @@
     "zalo": "0364847376",
     "password": "123456",
     "createdAt": "2026-03-07T07:25:10.790Z"
-  },
-  {
-    "id": "1773029007812",
-    "category": "revit_addin",
-    "author": "Sưu tầm",
-    "title": "Test",
-    "desc": "Test",
-    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/test_1773029007098.zip",
-    "guide": "Test",
-    "isPremium": false,
-    "zalo": "",
-    "password": "",
-    "createdAt": "2026-03-09T04:03:27.813Z"
   }
 ]
