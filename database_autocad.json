@@ -164,5 +164,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-10T09:02:34.155Z"
+  },
+  {
+    "id": "1773133425606",
+    "category": "lisp",
+    "author": "Sơn Hồ",
+    "title": "Add Vertex",
+    "desc": "Thêm đỉnh Polyline",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/add_vertex_1773133425004.lsp",
+    "guide": "Command: AV",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-10T09:03:45.606Z"
   }
 ]
