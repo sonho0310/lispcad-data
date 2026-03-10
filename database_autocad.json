@@ -177,5 +177,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-10T09:03:45.606Z"
+  },
+  {
+    "id": "1773133536288",
+    "category": "cad",
+    "author": "Sơn Hồ",
+    "title": "Rotate Text",
+    "desc": "Xoay Text song song với Line, Polyline",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/rotate_text_1773133535628.lsp",
+    "guide": "Command: TOR",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-10T09:05:36.288Z"
   }
 ]
