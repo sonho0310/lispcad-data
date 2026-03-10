@@ -190,5 +190,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-10T09:05:36.288Z"
+  },
+  {
+    "id": "1773135619385",
+    "category": "cad",
+    "author": "Sơn Hồ",
+    "title": "Explode Attribute",
+    "desc": "Phá vỡ (Explode) Block nhưng vẫn giữ nguyên giá trị Attribute thành Text thường",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/explode_attribute_1773135618486.lsp",
+    "guide": "Command: XAT",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-10T09:40:19.385Z"
   }
 ]
