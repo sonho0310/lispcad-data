@@ -151,5 +151,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-07T07:00:12.077Z"
+  },
+  {
+    "id": "1773133354155",
+    "category": "lisp",
+    "author": "Sơn Hồ",
+    "title": "Vẽ Polyline với Width",
+    "desc": "Lisp vẽ Polyline với các độ rộng 30-50-Tùy chỉnh nhé bro!!!",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/ve_polyline_voi_width_1773133353365.lsp",
+    "guide": "Command: PL0, PL30, PLN",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-10T09:02:34.155Z"
   }
 ]
