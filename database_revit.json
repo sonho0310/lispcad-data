@@ -103,5 +103,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-09T08:38:08.283Z"
+  },
+  {
+    "id": "1773211523675",
+    "category": "revit_addin",
+    "author": "Sưu tầm",
+    "title": "Change Viewport Type",
+    "desc": "- Chuyển nhiều viewport về type mong muốn \n- Transfer View Name => Title on Sheet",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/change_viewport_type_1773211522971.zip",
+    "guide": "Chọn Sheet cần quét View trên Project Browser - Chạy Lệnh",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-11T06:45:23.675Z"
   }
 ]
