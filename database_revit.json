@@ -116,5 +116,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-11T06:45:23.675Z"
+  },
+  {
+    "id": "1773212913577",
+    "category": "revit_addin",
+    "author": "Sơn Hồ",
+    "title": "FavouriteDockable",
+    "desc": "Hi",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/favouritedockable_1773212912565.zip",
+    "guide": "Hi",
+    "isPremium": true,
+    "zalo": "",
+    "password": "0310",
+    "createdAt": "2026-03-11T07:08:33.577Z"
   }
 ]
