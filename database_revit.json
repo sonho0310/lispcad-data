@@ -129,5 +129,18 @@
     "zalo": "",
     "password": "0310",
     "createdAt": "2026-03-11T07:08:33.577Z"
+  },
+  {
+    "id": "1773214655628",
+    "category": "revit_addin",
+    "author": "Hoàng Long",
+    "title": "Change Parameter",
+    "desc": "Thay đổi tên đồng loạt cho giá trị parameter \nCó chế độ copy sang cho giá parameter khác\nCó thể chỉnh sửa in hoa đồng loạt",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/change_parameter__1773214654839.zip",
+    "guide": "chọn n view -> nhập tên sửa -> xong",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-11T07:37:35.628Z"
   }
 ]
