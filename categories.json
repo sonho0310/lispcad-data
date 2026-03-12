@@ -42,5 +42,12 @@
     "name": "General",
     "icon": "folder_open",
     "createdAt": "2026-03-03T09:00:07.856Z"
+  },
+  {
+    "main": "AutoCAD",
+    "id": "windows_9550",
+    "name": "Windows",
+    "icon": "folder_open",
+    "createdAt": "2026-03-12T08:53:30.861Z"
   }
 ]
