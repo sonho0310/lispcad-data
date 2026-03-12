@@ -142,5 +142,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-11T07:37:35.628Z"
+  },
+  {
+    "id": "1773300264018",
+    "category": "revit_addin",
+    "author": "Sơn Hồ",
+    "title": "QuickLaunch",
+    "desc": "Lấy lệnh nhanh không cần tạo nút bấm cho tool",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/quicklaunch_1773300263281.zip",
+    "guide": "",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-12T07:24:24.018Z"
   }
 ]
