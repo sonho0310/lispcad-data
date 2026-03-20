@@ -194,5 +194,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-19T06:51:24.282Z"
+  },
+  {
+    "id": "1774002473481",
+    "category": "revit_addin",
+    "author": "Hoàng Long",
+    "title": "Đếm số parameter",
+    "desc": "Áp dụng cho mọi hình thức",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/_em_so_parameter__1774002472788.zip",
+    "guide": "",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-20T10:27:53.481Z"
   }
 ]
