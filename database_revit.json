@@ -223,5 +223,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-30T03:08:25.391Z"
+  },
+  {
+    "id": "1774865529255",
+    "category": "revit_addin",
+    "author": "Hoàng Long",
+    "title": "LinkExcel",
+    "desc": "Note: Sửa excel nhớ save as rồi load",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/linkexcel_1774865528483.zip",
+    "guide": "",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-30T10:12:09.255Z"
   }
 ]
