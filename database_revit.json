@@ -236,5 +236,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-30T10:12:09.255Z"
+  },
+  {
+    "id": "1774867344155",
+    "category": "revit_addin",
+    "author": "Sơn Hồ",
+    "title": "CropView&CallOut",
+    "desc": "Tạo call out và crop view từ filled region, tự động tạo ra mặt bằng mới",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/cropview_callout_1774867343402.zip",
+    "guide": "",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-30T10:42:24.155Z"
   }
 ]
