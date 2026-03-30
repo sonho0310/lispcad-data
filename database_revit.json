@@ -210,5 +210,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-28T03:00:10.462Z"
+  },
+  {
+    "id": "1774840105391",
+    "category": "revit_addin",
+    "author": "Hoàng Long",
+    "title": "DuplicateFL_Update",
+    "desc": "Chọn View trước rồi dup, \" VIEW NÀO CÓ KEYNOTES XÓA RỒI HÃY DUP \"",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/duplicatefl_update_1774840104734.zip",
+    "guide": "",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-30T03:08:25.391Z"
   }
 ]
