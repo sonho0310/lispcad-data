@@ -236,5 +236,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-30T10:12:09.255Z"
+  },
+  {
+    "id": "1774866071012",
+    "category": "revit_addin",
+    "author": "Sơn Hồ",
+    "title": "CropView",
+    "desc": "Hi",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/cropview_1774866070109.zip",
+    "guide": "Hi",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-30T10:21:11.012Z"
   }
 ]
