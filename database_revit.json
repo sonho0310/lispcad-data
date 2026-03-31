@@ -249,5 +249,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-31T03:58:21.356Z"
+  },
+  {
+    "id": "1774949054191",
+    "category": "revit_addin",
+    "author": "Hoàng Long",
+    "title": "LinkExcel",
+    "desc": "Excellent",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/linkexcel_1774949053315.zip",
+    "guide": "",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-03-31T09:24:14.191Z"
   }
 ]
