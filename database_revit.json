@@ -249,5 +249,18 @@
     "zalo": "",
     "password": "",
     "createdAt": "2026-03-31T09:24:14.191Z"
+  },
+  {
+    "id": "1775013411249",
+    "category": "revit_addin",
+    "author": "Sơn Hồ",
+    "title": "Quicklaunch",
+    "desc": "hi",
+    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/quicklaunch_1775013410555.zip",
+    "guide": "hi",
+    "isPremium": false,
+    "zalo": "",
+    "password": "",
+    "createdAt": "2026-04-01T03:16:51.249Z"
   }
 ]
