@@ -108,19 +108,6 @@
     "createdAt": "2026-03-11T07:37:35.628Z"
   },
   {
-    "id": "1773643365918",
-    "category": "revit_addin",
-    "author": "Sơn Hồ",
-    "title": "QuickLaunch",
-    "desc": "hihi",
-    "filename": "https://raw.githubusercontent.com/sonho0310/lispcad-data/main/scripts/quicklaunch_1773643365254.zip",
-    "guide": "",
-    "isPremium": false,
-    "zalo": "",
-    "password": "",
-    "createdAt": "2026-03-16T06:42:45.918Z"
-  },
-  {
     "id": "1773803550262",
     "category": "revit_addin",
     "author": "Hoàng Long",
